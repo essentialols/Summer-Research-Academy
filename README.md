@@ -40,4 +40,4 @@ Once you see the curso blinking idly again, type in ```library(tidyverse)```. We
 
 If so, there was a problem with the installation.  In that case, close RStudio and repeat Step 3.
 
-Once the ```tidyverse``` is installed correctly, you are done. Congratulations! If you keep receiving an error messsage even after trying several times, please get in touch with Lina.
+Once the ```tidyverse``` is installed correctly, you are done. Congratulations! If you keep receiving an error messsage even after trying several times, please get in touch with the SRA staff.
